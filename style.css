@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+}
+
+body {
+	background-image: url(cocoro.jpg);
+}
+
+.div-container {
+	border: 4px solid #2EFF49;
+	background-color: #161616;
+}
+
+img {
+	text-align: center;
+	cursor: pointer;
+	margin: 30px;
+	width: 200px;
+	height: 300px;
+}
+
+h1, p {
+	color: #BA00FF;
+}
+
+p {
+	font-size: 30px;
+}
+
+.img-1:hover {
+	border: 3px solid #AE4BD4;
+	border-radius: 4px;
+	box-shadow: 2px 3px 5px 2px #CC44FF;
+}
+
+.img-2:hover {
+	border: 3px solid #4755B4;
+	border-radius: 4px;
+	box-shadow: 2px 3px 5px 2px #2E49FF;
+}
+
+.img-3:hover {
+	border: 3px solid #63C75C;
+	border-radius: 4px;
+	box-shadow: 2px 3px 5px 2px #2FFF21;
+}
+
+.img-4:hover {
+	border: 3px solid #B11F1F;
+	border-radius: 4px;
+	box-shadow: 2px 3px 5px 2px #FF0505;
+}
+
+.video {
+	text-align: center;
+}
